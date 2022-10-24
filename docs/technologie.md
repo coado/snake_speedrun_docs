@@ -11,3 +11,6 @@ Jeżeli chodzi o część techniczną to użyliśmy:
 Do komunikacji i organizacji pracy użyliśmy: 
 - Trello
 - Discord
+- Doodle
+- Google Docs
+- Slack
