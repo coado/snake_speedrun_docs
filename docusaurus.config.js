@@ -37,7 +37,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/coado/snake_speedrun_docs',
+            'https://github.com/coado/snake_speedrun_docs/tree/main',
         },
         blog: {
           showReadingTime: true,
@@ -70,7 +70,7 @@ const config = {
             label: 'Docs',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/coado/snake_speedrun_docs',
             label: 'GitHub',
             position: 'right',
           },
