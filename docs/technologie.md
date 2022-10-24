@@ -7,6 +7,7 @@ sidebar_position: 3
 Jeżeli chodzi o część techniczną to użyliśmy:
   - Python
   - Github
+  - Overleaf (LaTeX)
 
 Do komunikacji i organizacji pracy użyliśmy: 
 - Trello
